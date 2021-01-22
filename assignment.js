@@ -1,3 +1,7 @@
+// https://github.com/hanif9050/assignment-3
+
+
+
 // 1. KILOMETER To METER
 
 function kilometerToMeter(input) {
@@ -59,7 +63,7 @@ function budgetCalculator(watchQty, phoneQty, laptopQty) {
     return totalBudgetNeed;
 }
 /*NOTE******
- use console log inside of instead of return because of input
+ use console log inside  instead of return because of input
 one invalid function is stop working
 */
 // ******End Of Second Problem***********
